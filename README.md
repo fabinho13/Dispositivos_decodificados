@@ -1,17 +1,15 @@
 # Dispositivos_decodificados
-Projeto de Dispositivos decodificados ultiizando o micrcontrolador 80c51
+#Projeto de Disposítivos Decodificados.
 
-In this project , there is an example of a project, where is used the 80c51 micrcontroler, being part of embeded system, construct with the flollowing peripherals:
-ADC converter;
-Sixteen keyboard;
-RS232 Peripeherals;
-DAC converter;
-RAM memory;
-ROM memory;
-Enter Keys;
-Four Stteper motors, with the driver construct with the l297 and l298.
+Quando fora lançado, o microcontrolador 80c51 tonha como propriedade para extender a possibilidade de utilização de periféricos a utilização de um decodificador que "escolhe-se" o dispositivo a ser usado; além deste tópico exibido neste projeto, tem-se a utilização da memória rom externa.
 
-All of these peripherals are simulated using proteus sofwatre and the programs that make it is found on the document that there is the description of the board.
+#O presente projeto tem os seguintes dispositivos:
 
-Suggestions:
-Construct this borad is a great job for who wanted to training his skills in eletronic and eletrica, and more, in techinical courses of eletrically report.
+RS232.
+Teclado para a entrada de dados.
+Conversor analógico digital.
+Conversor digital analógico.
+Display de Cristal Líquido.
+Um drive para motor de passo.
+
+Todos os perféricos foram simulados, buscando fazer uma simulação de testes do sistema. Os resultados constam no relatório.
