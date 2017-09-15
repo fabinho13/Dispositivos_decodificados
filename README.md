@@ -1,7 +1,7 @@
 # Dispositivos_decodificados
 #Projeto de Disposítivos Decodificados.
 
-Quando fora lançado, o microcontrolador 80c51 tinha como propriedade para extender as possibilidades de utilização de periféricos por meio de um decodificador que "escolhe" o dispositivo a ser usado; além deste tópico exibido, neste projeto, tem-se a utilização da memória rom externa.
+Quando fora lançado, o microcontrolador 80c51 tinha como propriedade para extender as possibilidades de utilização de periféricos por meio de um decodificador que "escolhe" o dispositivo a ser usado; além deste tópico exibido, neste projeto, tem-se a utilização da memória rom externa junto a uma séria de dispositivos descritos abaixo.
 
 #O presente projeto tem os seguintes dispositivos:
 
